@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "846405997397",
+    "project_id": "doctorappoinyment",
+    "storage_bucket": "doctorappoinyment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846405997397:android:52a22c3d7077f5e27955dc",
+        "android_client_info": {
+          "package_name": "com.id.drapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846405997397-b47ea7djfmujkv4k428q4fe2tlm97jsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.drapp",
+            "certificate_hash": "95006bea1c9f0b04dcbdc408e1c7ac45696878df"
+          }
+        },
+        {
+          "client_id": "846405997397-bd27ohu6qm4qara8vvtpnq3bkii4rq0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJJWjSNJbklnaRtKv_sVFbec9SIHivuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846405997397-bd27ohu6qm4qara8vvtpnq3bkii4rq0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846405997397-m61ebk6e5pg0u65h4tbac74fklgabdfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.id.drapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
