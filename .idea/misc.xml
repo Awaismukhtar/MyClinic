@@ -27,6 +27,8 @@
         <entry key="..\:/Projects/AndroidApp/MyClinic/app/src/main/res/layout/hospital_detail_lower.xml" value="0.278125" />
         <entry key="..\:/Projects/AndroidApp/MyClinic/app/src/main/res/layout/loginlower.xml" value="0.278125" />
         <entry key="..\:/Projects/AndroidApp/MyClinic/app/src/main/res/layout/patientsignuplower.xml" value="0.12864583333333332" />
+        <entry key="..\:/Projects/Myclinic/MyClinic/app/src/main/res/layout/appointment_list_item.xml" value="0.278125" />
+        <entry key="..\:/Projects/Myclinic/MyClinic/app/src/main/res/layout/patients_list_item.xml" value="0.278125" />
       </map>
     </option>
   </component>
