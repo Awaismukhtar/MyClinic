@@ -24,7 +24,7 @@
             android:textStyle="normal"
             android:layout_weight="1"
             android:textColor="@android:color/black"
-            android:hint="Aaqil Abbas"/>
+            android:hint="Name"/>
         <TextView
             android:id="@+id/patientAddress"
             android:layout_width="wrap_content"
@@ -33,7 +33,7 @@
             android:ellipsize="end"
             android:maxLines="1"
             android:textColor="@color/album_title"
-            android:hint="Jhang"/>
+            android:hint="Address"/>
         <TextView
             android:id="@+id/patientAge"
             android:layout_width="wrap_content"

@@ -80,8 +80,8 @@ public class createAccount extends AppCompatActivity {
                                         Intent intent = new Intent(this, createAccount2Activity.class);
                                         intent.putExtra("firstname", firstname);
                                         intent.putExtra("lastname", lastname);
-                                        intent.putExtra("userphone", userphone);
-                                        intent.putExtra("useremail", useremail);
+                                        intent.putExtra("phone", userphone);
+                                        intent.putExtra("email", useremail);
                                         intent.putExtra("password", password);
                                         startActivity(intent);
                                     }else {

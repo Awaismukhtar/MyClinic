@@ -16,7 +16,7 @@
             android:layout_weight="1"
             android:drawableStart="@drawable/ic_perm_identity_black_24dp"
             android:drawableLeft="@drawable/ic_perm_identity_black_24dp"
-            android:hint="Aaqil Abbas"
+            android:hint="Name"
             android:textColor="@color/black_de"
             android:inputType="text"
             android:textColorHint="@android:color/darker_gray" />
@@ -28,7 +28,7 @@
             android:layout_weight="1"
             android:drawableStart="@drawable/ic_phone_black_24dp"
             android:drawableLeft="@drawable/ic_phone_black_24dp"
-            android:hint="(92)348-6494449"
+            android:hint="Phone number"
             android:inputType="phone"
             android:textColor="@color/black_de"
             android:textColorHint="@android:color/darker_gray" />
@@ -40,7 +40,7 @@
             android:layout_weight="1"
             android:drawableStart="@drawable/ic_email_black_24dp"
             android:drawableLeft="@drawable/ic_email_black_24dp"
-            android:hint="aaqil@gmail.com"
+            android:hint="Email xyz@gmail.com"
             android:textColor="@color/black_de"
             android:inputType="textWebEmailAddress"
             android:textColorHint="@android:color/darker_gray" />
@@ -63,7 +63,7 @@
             android:textColor="@color/black_de"
             android:drawableStart="@drawable/ic_location_on_black_24dp"
             android:drawableLeft="@drawable/ic_location_on_black_24dp"
-            android:hint="Home Address"
+            android:hint="Address"
             android:textColorHint="@android:color/darker_gray"
             android:inputType="textPostalAddress"/>
         <RadioGroup
@@ -76,6 +76,7 @@
                     android:id="@+id/maleRadio"
                     android:layout_width="wrap_content"
                     android:text="Male"
+                    android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:textColor="@color/actionBar"
                     android:onClick="onRadioClicked"/>

@@ -24,7 +24,7 @@
                 android:layout_weight="1"
                 android:textColor="@android:color/black"
                 android:textSize="16sp"
-                android:hint="Aaqil Abbas"/>
+                android:hint="Name"/>
             <TextView
                 android:id="@+id/appointmentTime"
                 android:layout_width="0dp"
@@ -45,7 +45,7 @@
             android:textSize="12sp"
             android:maxLines="1"
             android:textColor="@color/album_title"
-            android:hint="Aaqil Trust Hospital"/>
+            android:hint="Xyz Trust Hospital"/>
         <TextView
             android:id="@+id/problem"
             android:layout_width="wrap_content"

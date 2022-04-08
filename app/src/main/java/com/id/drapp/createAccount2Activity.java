@@ -103,8 +103,8 @@ public class createAccount2Activity extends AppCompatActivity {
         Intent intent = getIntent();
         firstname = intent.getStringExtra("firstname");
         lastname = intent.getStringExtra("lastname");
-        userphone = intent.getStringExtra("userphone");
-        useremail = intent.getStringExtra("useremail");
+        userphone = intent.getStringExtra("phone");
+        useremail = intent.getStringExtra("email");
         password = intent.getStringExtra("password");
 
         doctorName.setText(firstname + " " + lastname);
